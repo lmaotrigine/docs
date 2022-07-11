@@ -2,6 +2,8 @@
   "dice-parser": {
     "latest": "latest",
     "stable": "stable",
-    "tags": []
+    "tags": [
+      "$tag_name"
+    ]
   }
 }
