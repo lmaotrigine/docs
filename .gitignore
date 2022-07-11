@@ -1,0 +1,5 @@
+# sphinx
+.doctrees/
+_sources/
+.buildinfo
+
